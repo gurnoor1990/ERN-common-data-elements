@@ -3,9 +3,7 @@
 | Meta-data element | Issue Number | data schema | RDF-rules |
 |------------------|---------------|---------------|---------------|
 | Pseudonym ||||    
-
 Date of birth ||||
-
 Sex ||||
 Patient Status (alive or dead) ||||
 Date of death ||||
